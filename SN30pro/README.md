@@ -89,3 +89,14 @@ Note: The MAC address of the switch mode has been changed. The original configur
 ### v1.38
 - Fixed the low battery indicator error on Switch mode.
 - Fixed abnormal disconnect issue on Switch mode.
+
+### v2.00 (2022-11-04)
+- Optimized the stick Deadzone on X-input mode.
+- Optimized the motion control sensitivity of Switch mode.
+
+### v2.01 Beta 4 (2022-12-13)
+- Fixed the abnormal crash issue.
+
+### v2.01 Beta 6 (2023-02-13)
+- Fixed the abnormal turbo issue in Dinput.
+
