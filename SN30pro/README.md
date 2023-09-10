@@ -100,3 +100,6 @@ Note: The MAC address of the switch mode has been changed. The original configur
 ### v2.01 Beta 6 (2023-02-13)
 - Fixed the abnormal turbo issue in Dinput.
 
+### v2.01 (2023-07-07)
+- Fixed the abnormal rumble issue in Xinput mode.
+- Fixed the abnormal rumble issue in Switch mode.
