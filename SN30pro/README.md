@@ -94,12 +94,12 @@ Note: The MAC address of the switch mode has been changed. The original configur
 - Optimized the stick Deadzone on X-input mode.
 - Optimized the motion control sensitivity of Switch mode.
 
-### v2.01 Beta 4 (2022-12-13)
+### v2.02 Beta 4 (2022-12-13)
 - Fixed the abnormal crash issue.
 
-### v2.01 Beta 6 (2023-02-13)
+### v2.02 Beta 6 (2023-02-13)
 - Fixed the abnormal turbo issue in Dinput.
 
-### v2.01 (2023-07-07)
+### v2.02 (2023-07-07)
 - Fixed the abnormal rumble issue in Xinput mode.
 - Fixed the abnormal rumble issue in Switch mode.
