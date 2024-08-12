@@ -103,3 +103,11 @@ Note: The MAC address of the switch mode has been changed. The original configur
 ### v2.01 (2023-07-07)
 - Fixed the abnormal rumble issue in Xinput mode.
 - Fixed the abnormal rumble issue in Switch mode.
+
+### v2.04 (2023-12-07)
+- Added the auto mode for turbo function. (Pls refer to the official website for the latest user manual)
+
+### v2.05 (2024-07-12)
+- Fixed the abnormal vibration issue when over wired connection in Xinput mode.
+- Changed the button combo from [L+R+SELECT] to [L+R+SELECT+Y] for enabling/disabling the rumble
+- Fixed the abnormal joysticks issue when holding down the L3 / R3 button.
