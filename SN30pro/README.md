@@ -111,3 +111,6 @@ Note: The MAC address of the switch mode has been changed. The original configur
 - Fixed the abnormal vibration issue when over wired connection in Xinput mode.
 - Changed the button combo from [L+R+SELECT] to [L+R+SELECT+Y] for enabling/disabling the rumble
 - Fixed the abnormal joysticks issue when holding down the L3 / R3 button.
+
+### v2.06 (2025-06-06)
+- Added support for Switch 2.
